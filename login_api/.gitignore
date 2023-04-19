@@ -1,0 +1,11 @@
+# Cargo - Rust's package manager
+/target/
+**/*.rs.bk
+Cargo.lock
+
+# IDEs and editors
+/.idea/
+/.vscode/
+
+# System files
+.DS_Store
